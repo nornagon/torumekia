@@ -1,7 +1,7 @@
 {
-  "parent": "block/cube_all",
+  "parent": "builtin/generated",
   "textures": {
-    "all": "blocks/hardened_clay"
+    "layer0": "blocks/wheat_stage_4"
   },
   "display": {
     "thirdperson": {
